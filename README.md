@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gics-Sk
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on everybody
+- 💞️ I’m looking to collaborate on all 
 - 📫 How to reach me Giovanni.sokenou2105@gmail.com
 
 <!---
